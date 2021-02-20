@@ -75,7 +75,7 @@
     打开Actions页面，此时在workflows中应该出现了正在运行的工作流。当提交文件时会马上进行一次打卡，以后将会默认在每天的7:05进行打卡
 
     ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817192416.png)
-    刘杰自动打卡 开始进行
+    刘杰自动打卡 开始进行     
 
 ## 修改打卡时间
 
